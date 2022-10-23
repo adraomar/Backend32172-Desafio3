@@ -1,4 +1,3 @@
-const { response } = require("express");
 const express = require("express");
 const Contenedor = require("./productos");
 const PORT = 8080;
